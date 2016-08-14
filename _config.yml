@@ -1,0 +1,21 @@
+# Site settings
+title: "Michael Welburn"
+name: Michael Welburn
+email: mwelbu2@gmail.com
+description: "Salesforce, Programming, &amp; More"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://michaelwelburn.com" # the base hostname & protocol for your site
+twitter_username: MichaelWelburn
+github_username:  mwelburn
+linkedin_username: michaelwelburn
+instagram_username: br0nc080
+
+# Build settings
+markdown: kramdown
+
+gems:
+  - jekyll-feed
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
