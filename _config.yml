@@ -10,6 +10,9 @@ github_username:  mwelburn
 linkedin_username: michaelwelburn
 instagram_username: br0nc080
 
+# Google services
+google_analytics: UA-25054049-2
+
 # Build settings
 markdown: kramdown
 
