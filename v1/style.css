@@ -1,0 +1,192 @@
+body {
+	background: #CCCCCC;
+	font-family: serif;
+	font-size: 14px;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+h1 {
+	/* body */
+	font-size: 14px;
+	color: #000000;
+	font-family: times, serif;
+	font-weight: normal;
+}
+
+h1 a {
+	color: #0B0BF4;
+}
+
+h2 {
+	/* byline */
+	color: #000BAC;
+	font-family: courier, sans-serif;
+	font-style: italic;
+	font-size: 12px;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+h2 a {
+	color: #0B0BF4;
+}
+
+h3 {
+	/* title */
+	color: #0B0BF4;
+	font-size: 28px;
+	margin: 10px 0px 3px 0px;
+	padding: 0px 0px 0px 0px;
+	font-variant: small-caps;
+}
+
+h3 a {
+	color: #0B0BF4;
+}
+
+h4 {
+	/* comment text */
+	font-size: 14px;
+	font-style: normal;
+	font-family: times, serif;
+	font-weight: normal;
+	margin: 5px 0px 5px 0px;
+}
+
+h5 {
+	/* "Comments" denoting comment area */
+	/* "Post your comments below" text */
+	font-size: 18px;
+	font-variant: small-caps;
+	margin: 30px 0px 0px 0px;	
+}
+
+/*
+Figure out thin borders on pictures, captions
+
+.img {
+	border-color: #000000;
+	border-width: 1px;
+	border-style: solid;
+	margin: 10px 10px 10px 10px;
+	padding: 10px 10px 10px 10px;
+}
+
+.img a {
+	border-color: #000000;
+	border-width: 1px;
+	border-style: solid;
+	margin: 10px 10px 10px 10px;
+	padding: 10px 10px 10px 10px;
+}
+*/
+
+.container {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.header {
+	
+}
+
+.name {
+	color: #0B0BF4;
+	font-size: 16px;
+	text-indent: 2px;	
+	float: left;
+}
+
+.logo {
+	clear: both;
+	background-image: url(images/cubsbanner2.jpg);
+	border-style: solid;
+	border-color: #0B0BF4;
+	border-width: 2px;
+	margin-top: 2px;
+	width: 800px;
+	height: 127px;
+/*	color: #0B0BF4;
+	text-indent: 190px;
+	line-height: 150%; */
+	color: #FFFFFF;
+	text-indent: 610px;
+	line-height: 1700%;
+}
+
+.tab {    width: 804px;
+	margin-top: 20px;
+	text-align: right;
+	text-decoration: none;}
+
+.tab a {
+	border: 1px solid #0B0BF4;
+	background-color: #FFFFFF;
+	color: #0B0BF4;	border-bottom-width: 2px;	padding: 2px 5px 2px 5px;
+}
+
+.tab a:hover {
+	background-color: #0B0BF4;	color: #FFFFFF;
+}
+
+.tab a.current{
+	background-color: #0B0BF4;
+	color: #FFFFFF;
+}
+
+.content {
+	clear: both;
+	width: 800px;
+	border-style: solid;
+	border-color: #0B0BF4;
+	border-width: 0px 2px 2px 2px;	
+	background:#99CCFF
+}
+
+.main {
+	float: left;
+	width: 580px;
+	padding: 10px;
+	background-color: #FFFFFF;
+	border-style: solid;
+	border-color: #0B0BF4;
+	border-width: 0px 2px 0px 0px;
+}
+
+.sidebar {
+	float: right;
+	width: 178px;
+	padding: 10px;
+}
+
+.bottom {
+	clear: both;
+}
+
+.sidebar a {
+	
+}
+
+.project_indent {
+	/*padding-left: 50px;
+	padding-right: 50px;*/
+}
+
+.footer {
+	clear: both;
+	font-size: 10px;
+	font-family: serif;
+	text-align: center;
+}
+
+.footer a {
+	text-decoration: none;
+}
