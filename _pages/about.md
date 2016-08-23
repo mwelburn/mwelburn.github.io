@@ -1,12 +1,27 @@
 ---
 permalink: /about/
-title: "About"
+title: "All About Michael"
 modified: 2015-11-13T16:39:37-04:00
 ---
+Thanks for stopping by to learn a little more about my background.
 
-<img class="aligncenter size-full wp-image-94" src="http://michaelwelburn.com/wp-content/uploads/2013/02/about.jpg" alt="about" width="650" height="236" />
+Work Experience
+--
+I've spent the last 6+ years consulting on the Salesforce platform. Over that time, I've accumulated a wealth of [Salesforce certifications](http://certification.salesforce.com/verification?&fullname=Michael%20Welburn), demonstrating an expert level knowledge of Salesforce.
 
-I’m a Salesforce technical architect and web developer currently living in San Francisco (originally from Chicago), where I work remotely for <a title="7Summits" href="http://7summitsagency.com" target="_blank">7Summits</a>. I’ve done a lot of work on enterprise level web applications, and am now consulting on <a title="Salesforce.com" href="http://salesforce.com" target="_blank">Salesforce.com</a> implementations and customizations. I&#8217;ve got a ton of experience with all parts of the software development lifecycle (the nature of being part of small teams is you end up doing everything), but designing and implementing challenging and &#8220;cool&#8221; stuff is what gets me excited. While I have worked extensively with Java in the past, I do a ton of Apex / Visualforce right now and mix in some Javascript when I can (and when time permits, get in some Rails and Objective-C for fun).
+I've filled a vast majority of the roles on the delivery side of implementations, working at smaller companies without the separation of responsibilities you might find at a larger company.
+
+* Technical Architect
+* Solution Architect
+* Business Analyst
+* Developer
+* Administrator
+
+Prior to working on Salesforce, I spent a few years consulting on Documentum, primarily building migration tools and portals on the Java stack.
+
+Personal
+--
+Currently residing in San Francisco, I grew up in the Chicago suburbs and spent a few years in New York City. I graduated from the University of Illinois at Urbana Champaign with a Bachelor's in Computer Engineering.
 
 Other interesting facts about me:
 
