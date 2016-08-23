@@ -3,7 +3,6 @@ id: 1042
 title: 'First Look: Salesforce Files Connect'
 date: 2015-07-08T21:17:50+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=1042
 permalink: /2015/07/08/first-look-salesforce-files-connect/
 twitterCardType:

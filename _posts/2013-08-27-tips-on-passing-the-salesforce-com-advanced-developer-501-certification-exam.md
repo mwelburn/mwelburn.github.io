@@ -3,7 +3,6 @@ id: 491
 title: Tips on Passing the Salesforce.com Advanced Developer (501) Certification Exam
 date: 2013-08-27T09:00:42+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=491
 permalink: /2013/08/27/tips-on-passing-the-salesforce-com-advanced-developer-501-certification-exam/
 categories:
@@ -20,11 +19,11 @@ Last week I passed the first part of the Salesforce Advanced Developer (501) Cer
 
 Reviewing the <a title="Developers Page" href="http://certification.salesforce.com/developers" target="_blank">study guide</a> (and many blogs written by those who have passed), I came across most of the general concepts that were covered. Some of the blogs I found valuable for preparation:
 
-  * <a title="Class Notes" href="http://saramorgandotnet.files.wordpress.com/2013/04/apex-class-notes-spring-2012-premier-training.pdf" target="_blank">Sara Morgan&#8217;s Class Notes</a> 
+  * <a title="Class Notes" href="http://saramorgandotnet.files.wordpress.com/2013/04/apex-class-notes-spring-2012-premier-training.pdf" target="_blank">Sara Morgan&#8217;s Class Notes</a>
       * Good overview, though might be a bit basic for seasoned developers
   * <a title="Jeff Douglas" href="http://blog.jeffdouglas.com/2009/07/13/i-passed-the-salesforce-com-certified-advanced-developer-exam-so-can-you/" target="_blank">Jeff Douglas &#8211; I Passed the Salesforce.com Certified Advanced Developer Exam &#8211; So Can You!</a>
   * <a title="Matt Lacey" href="http://www.laceysnr.com/2011/12/five-oh-one-part-one-advanced-developer.html" target="_blank">Matt Lacey &#8211; Five Oh One Part One: The Advanced Developer Certification Exam</a>
-  * <a title="Steven Herod" href="http://limitexception.herod.net/2011/12/14/helping-you-pass-your-501-advanced-developer-exam/" target="_blank">Steven Herod &#8211; Helping you pass your 501 Advanced Developer Exam</a> 
+  * <a title="Steven Herod" href="http://limitexception.herod.net/2011/12/14/helping-you-pass-your-501-advanced-developer-exam/" target="_blank">Steven Herod &#8211; Helping you pass your 501 Advanced Developer Exam</a>
       * Even if you don&#8217;t actually do the exercise, make a mental checklist of all the things listed and ensure that you know how to do them and when/why they are used
   * <a title="Cory Cowgill" href="http://corycowgill.blogspot.com/2011/05/passing-forcecom-advanced-developer-501.html" target="_blank">Cory Cowgill &#8211; Passing the Force.com Advanced Developer Exam</a>
 

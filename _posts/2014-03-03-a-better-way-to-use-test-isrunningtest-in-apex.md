@@ -3,7 +3,6 @@ id: 724
 title: A Better Way to Use Test.isRunningTest() in Apex
 date: 2014-03-03T06:00:47+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=724
 permalink: /2014/03/03/a-better-way-to-use-test-isrunningtest-in-apex/
 categories:
@@ -22,7 +21,7 @@ I haven&#8217;t leveraged <a title="Test.isRunningTest" href="http://www.salesf
 From the <a title="How to Write Good Unit Tests" href="http://wiki.developerforce.com/page/How_to_Write_Good_Unit_Tests" target="_blank">developerforce wiki</a>:
 
 > There are some situations, when you will just not be able to test some code in a normal matter &#8211; eg. you are using objects that cannot be inserted in tests, or doing some http requests. In such case, if you think there is no other option, consider using Test.isRunningTest(). This static method allows you to discover whether the code was run from test method. Therefore, for example you might:
-> 
+>
 >   * return hardcoded String instead of calling http request and parsing the body
 >   * return a fixed array of objects from a method
 
@@ -44,7 +43,7 @@ In this particular case, the unit tests will never get into the error condition 
     public class TestUtils
     {
       public static Boolean enable_isRunningTest = true;
-    
+
       public static Boolean isRunningTest()
       {
         return Test.isRunningTest() && enable_IsRunningTest;

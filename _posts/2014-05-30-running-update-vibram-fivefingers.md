@@ -3,7 +3,6 @@ id: 909
 title: 'Running Update: Vibram Fivefingers'
 date: 2014-05-30T08:00:58+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=909
 permalink: /2014/05/30/running-update-vibram-fivefingers/
 categories:

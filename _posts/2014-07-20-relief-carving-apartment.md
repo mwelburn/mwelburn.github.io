@@ -3,7 +3,6 @@ id: 933
 title: First Attempt at Relief Carving in an Apartment
 date: 2014-07-20T21:17:05+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=933
 permalink: /2014/07/20/relief-carving-apartment/
 twitterCardType:

@@ -3,7 +3,6 @@ id: 835
 title: 'Obligatory New Job Post: 7Summits'
 date: 2014-03-19T04:00:27+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=835
 permalink: /2014/03/19/obligatory-new-job-post-7summits/
 categories:

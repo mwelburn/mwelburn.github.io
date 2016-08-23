@@ -3,7 +3,6 @@ id: 624
 title: Customization of Salesforce.com Help Text Bubbles in Visualforce
 date: 2014-01-13T06:00:35+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=624
 permalink: /2014/01/13/customization-of-salesforce-com-help-text-bubbles-in-visualforce/
 categories:

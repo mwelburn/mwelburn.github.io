@@ -3,7 +3,6 @@ id: 21
 title: 'iOS Development with Salesforce.com SDK: Day 1 thoughts'
 date: 2013-02-25T08:00:23+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=21
 permalink: /2013/02/25/ios-development-with-salesforce-com-sdk-day-1-thoughts/
 tumblr_br0nc080_permalink:

@@ -3,7 +3,6 @@ id: 744
 title: Building My First Google Chrome Extension for Salesforce
 date: 2014-01-27T06:00:16+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=744
 permalink: /2014/01/27/building-my-first-google-chrome-extension-for-salesforce/
 categories:

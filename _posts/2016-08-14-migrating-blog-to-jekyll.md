@@ -3,7 +3,6 @@ id: 1094
 title: Migrating Blog to Jekyll
 date: 2016-08-14T19:29:06+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=1094
 permalink: /2016/08/14/migrating-blog-to-jekyll/
 twitterCardType:
@@ -12,6 +11,7 @@ categories:
   - Jekyll
 tags:
   - Jekyll
+excerpt: "It has been quite some time since I've last posted, but I'm back."
 ---
 It has been quite some time since I've last posted, but I'm back.
 

@@ -3,13 +3,8 @@ id: 18
 title: Setting Rails Environment Variables Outside of Version Control
 date: 2012-04-30T03:26:00+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/2012/04/30/setting-rails-environment-variables-outside-of-version/
 permalink: /2012/04/30/setting-rails-environment-variables-outside-of-version/
-tumblr_br0nc080_permalink:
-  - http://br0nc080.tumblr.com/post/22102510702/setting-rails-environment-variables-outside-of-version
-tumblr_br0nc080_id:
-  - 22102510702
 categories:
   - Programming
   - Ruby on Rails

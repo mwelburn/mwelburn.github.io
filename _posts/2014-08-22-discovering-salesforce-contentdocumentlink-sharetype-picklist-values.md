@@ -3,7 +3,6 @@ id: 994
 title: Discovering Salesforce ContentDocumentLink ShareType Picklist Values
 date: 2014-08-22T08:00:11+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=994
 permalink: /2014/08/22/discovering-salesforce-contentdocumentlink-sharetype-picklist-values/
 twitterCardType:

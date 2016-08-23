@@ -3,7 +3,6 @@ id: 666
 title: Developing with JSON on the Salesforce.com Platform
 date: 2014-02-03T06:00:15+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=666
 permalink: /2014/02/03/developing-with-json-on-the-salesforce-com-platform/
 categories:
@@ -24,7 +23,7 @@ An example of a simple JSON string parsing is below:
     String body = '{"name" : "Michael", "company" : "Sonoma Partners"}';
     String name;
     String company;
-    
+
     JSONParser parser = JSON.createParser(body);
     while (parser.nextToken() != null) {
       if ((parser.getCurrentToken() == JSONToken.FIELD_NAME)) {
@@ -46,7 +45,7 @@ Leveraging the JSON methods in Apex, developers can now define an Apex object (s
       String name;
       String company;
     }
-    
+
     String body = '{"name" : "Michael", "company" : "Sonoma Partners"}';
     SonomaJSON myObject = (SonomaJSON)JSON.deserialize(body, SonomaJSON.class);
 
@@ -61,5 +60,5 @@ The biggest benefits of using (or converting existing manual parsing to) these A
   3. You are simply writing significantly less code by not manually parsing&#8230;which means you also don&#8217;t have to write the unit test for it.
 
 For additional information, take a look at the Force.com Developer page:
-  
+
 [http://wiki.developerforce.com/page/Getting\_Started\_with\_Apex\_JSON](http://wiki.developerforce.com/page/Getting_Started_with_Apex_JSON "Apex JSON - Getting Started")

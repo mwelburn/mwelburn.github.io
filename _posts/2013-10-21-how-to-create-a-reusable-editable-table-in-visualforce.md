@@ -3,7 +3,6 @@ id: 595
 title: How to Create a Reusable Editable Table in Visualforce
 date: 2013-10-21T07:00:31+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=595
 permalink: /2013/10/21/how-to-create-a-reusable-editable-table-in-visualforce/
 categories:

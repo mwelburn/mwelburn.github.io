@@ -3,7 +3,6 @@ id: 682
 title: 'Towing 2.0: The Future of the Industry'
 date: 2013-12-30T17:41:58+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=682
 permalink: /2013/12/30/towing-2-0-the-future-of-the-industry/
 categories:

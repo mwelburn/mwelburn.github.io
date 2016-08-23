@@ -3,13 +3,8 @@ id: 9
 title: Salesforce.com Data Loading options
 date: 2013-02-12T00:26:06+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/2013/02/12/salesforce-com-data-loading-options/
 permalink: /2013/02/12/salesforce-com-data-loading-options/
-tumblr_br0nc080_permalink:
-  - http://br0nc080.tumblr.com/post/42881405128/salesforce-com-data-loading-options
-tumblr_br0nc080_id:
-  - 42881405128
 categories:
   - Salesforce
 tags:

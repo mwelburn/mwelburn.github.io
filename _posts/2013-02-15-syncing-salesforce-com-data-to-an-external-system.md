@@ -3,13 +3,8 @@ id: 8
 title: Syncing Salesforce.com Data to an External System
 date: 2013-02-15T14:00:38+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/2013/02/15/syncing-salesforce-com-data-to-an-external-system/
 permalink: /2013/02/15/syncing-salesforce-com-data-to-an-external-system/
-tumblr_br0nc080_permalink:
-  - http://br0nc080.tumblr.com/post/43146905925/syncing-salesforce-com-data-to-an-external-system
-tumblr_br0nc080_id:
-  - 43146905925
 categories:
   - Programming
   - Salesforce

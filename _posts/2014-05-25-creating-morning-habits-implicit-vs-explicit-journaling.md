@@ -3,7 +3,6 @@ id: 907
 title: 'Creating Morning Habits &#038; Implicit vs. Explicit Journaling'
 date: 2014-05-25T12:21:29+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=907
 permalink: /2014/05/25/creating-morning-habits-implicit-vs-explicit-journaling/
 categories:

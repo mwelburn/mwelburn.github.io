@@ -3,7 +3,6 @@ id: 664
 title: 'Dreamforce &#038; the Internet of Things'
 date: 2013-12-23T09:00:21+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=664
 permalink: /2013/12/23/dreamforce-the-internet-of-things/
 categories:

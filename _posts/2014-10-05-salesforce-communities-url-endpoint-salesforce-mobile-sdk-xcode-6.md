@@ -3,7 +3,6 @@ id: 1017
 title: 'Salesforce Communities URL Endpoint with the Salesforce Mobile SDK &#038; Xcode 6'
 date: 2014-10-05T21:11:18+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=1017
 permalink: /2014/10/05/salesforce-communities-url-endpoint-salesforce-mobile-sdk-xcode-6/
 twitterCardType:

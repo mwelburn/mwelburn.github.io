@@ -3,7 +3,6 @@ id: 549
 title: Visualforce PDF Table Cells and Mysterious Disappearing Borders
 date: 2013-10-15T09:00:56+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=549
 permalink: /2013/10/15/visualforce-pdf-table-cells-and-mysterious-disappearing-borders/
 categories:
@@ -30,7 +29,7 @@ And then you can see, based on what you think is valid HTML/CSS, what its PDF re
 As you can see, some of the cell borders seem to be missing, although it seems to be in random locations. However, it isn&#8217;t truly random, as you are able to reload the page and see the same visual artifacts.
 
 > ## Developer Tip
-> 
+>
 > When debugging PDF markup, set your renderAs attribute on the <apex:page> to {!$CurrentPage.parameters.renderAs} and then add renderAs=pdf as a parameter in your URL. It will let you quickly remove that parameter to switch back and forth between HTML and PDF modes (since you can&#8217;t take advantage of browser based developer tools with the PDF version to check CSS style changes).
 
 Strangely enough, if you zoom into the PDF enough, the lines start to appear. After unsuccessfully poking around Salesforce&#8217;s <a title="StackExchange" href="http://salesforce.stackexchange.com" target="_blank">StackExchange</a> site, I started to think about the issue a bit and came up with the hypothesis that the PDF rendering must interpret the content of my cells being bigger than the HTML version. To test out that theory, I updated the CSS to include the following:

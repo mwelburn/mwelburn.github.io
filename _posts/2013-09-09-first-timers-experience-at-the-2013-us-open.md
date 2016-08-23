@@ -3,7 +3,6 @@ id: 516
 title: 'First Timer&#8217;s Experience at the 2013 US Open'
 date: 2013-09-09T09:00:25+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=516
 permalink: /2013/09/09/first-timers-experience-at-the-2013-us-open/
 categories:

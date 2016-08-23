@@ -3,13 +3,8 @@ id: 11
 title: HTTParty to the Rescue
 date: 2013-02-05T01:13:00+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/2013/02/05/httparty-to-the-rescue/
 permalink: /2013/02/05/httparty-to-the-rescue/
-tumblr_br0nc080_permalink:
-  - http://br0nc080.tumblr.com/post/42316577412/httparty-to-the-rescue
-tumblr_br0nc080_id:
-  - 42316577412
 categories:
   - Programming
   - Ruby on Rails

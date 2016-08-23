@@ -3,7 +3,6 @@ id: 1079
 title: '2016: The Year of Quantifiable Goals'
 date: 2016-01-02T11:33:26+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=1079
 permalink: /2016/01/02/2016-the-year-of-attainable-goals/
 twitterCardType:

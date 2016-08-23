@@ -3,13 +3,8 @@ id: 17
 title: Creating a Login Form via Bootstrap Navbar Dropdown
 date: 2012-08-20T03:41:00+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/2012/08/20/creating-a-login-form-via-bootstrap-navbar-dropdown/
 permalink: /2012/08/20/creating-a-login-form-via-bootstrap-navbar-dropdown/
-tumblr_br0nc080_permalink:
-  - http://br0nc080.tumblr.com/post/29805873466/creating-a-login-form-via-bootstrap-navbar-dropdown
-tumblr_br0nc080_id:
-  - 29805873466
 categories:
   - Javascript
   - Programming

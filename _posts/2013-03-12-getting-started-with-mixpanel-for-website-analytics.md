@@ -3,7 +3,6 @@ id: 290
 title: Getting Started with Mixpanel for Website Analytics
 date: 2013-03-12T07:00:22+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=290
 permalink: /2013/03/12/getting-started-with-mixpanel-for-website-analytics/
 categories:
@@ -42,7 +41,7 @@ Once that is included, you can start tracking your events. The first event that 
           mixpanel.track("Engage Landing Page");
        }
     }
-    
+
 
 <img class="alignnone size-full wp-image-332 aligncenter" alt="Screen Shot 2013-03-06 at 8.17.02 PM" src="http://michaelwelburn.com/wp-content/uploads/2013/03/Screen-Shot-2013-03-06-at-8.17.02-PM1.png" width="576" height="210" srcset="http://michaelwelburn.com/wp-content/uploads/2013/03/Screen-Shot-2013-03-06-at-8.17.02-PM1.png 576w, http://michaelwelburn.com/wp-content/uploads/2013/03/Screen-Shot-2013-03-06-at-8.17.02-PM1-300x109.png 300w" sizes="(max-width: 576px) 100vw, 576px" />
 
@@ -53,7 +52,7 @@ The second thing I was looking to track was form submissions. Normally I would j
     {
        return { postal_code : j$zipcode.val() };
     });
-    
+
 
 <img class="size-full wp-image-333 aligncenter" alt="Screen Shot 2013-03-06 at 8.17.25 PM" src="http://michaelwelburn.com/wp-content/uploads/2013/03/Screen-Shot-2013-03-06-at-8.17.25-PM1.png" width="576" height="209" srcset="http://michaelwelburn.com/wp-content/uploads/2013/03/Screen-Shot-2013-03-06-at-8.17.25-PM1.png 576w, http://michaelwelburn.com/wp-content/uploads/2013/03/Screen-Shot-2013-03-06-at-8.17.25-PM1-300x108.png 300w" sizes="(max-width: 576px) 100vw, 576px" />
 

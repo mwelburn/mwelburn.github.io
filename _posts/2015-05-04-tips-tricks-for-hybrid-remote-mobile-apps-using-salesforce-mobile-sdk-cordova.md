@@ -3,7 +3,6 @@ id: 1029
 title: 'Tips &#038; Tricks for Building Hybrid Remote Mobile Apps using Salesforce Mobile SDK &#038; Cordova'
 date: 2015-05-04T21:40:32+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=1029
 permalink: /2015/05/04/tips-tricks-for-hybrid-remote-mobile-apps-using-salesforce-mobile-sdk-cordova/
 twitterCardType:

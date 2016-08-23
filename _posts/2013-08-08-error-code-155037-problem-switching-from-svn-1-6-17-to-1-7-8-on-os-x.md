@@ -3,7 +3,6 @@ id: 467
 title: 'Error Code 155037: Problem Switching from SVN 1.6.17 to 1.7.8 on OS X'
 date: 2013-08-08T09:00:32+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=467
 permalink: /2013/08/08/error-code-155037-problem-switching-from-svn-1-6-17-to-1-7-8-on-os-x/
 categories:

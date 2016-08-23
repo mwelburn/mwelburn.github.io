@@ -3,7 +3,6 @@ id: 499
 title: Salesforce.com Metadata API Field Integrity Exception
 date: 2013-09-24T09:00:47+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=499
 permalink: /2013/09/24/salesforce-com-metadata-api-field-integrity-exception/
 categories:
@@ -22,7 +21,7 @@ The other day I was doing a coworker a favor by pushing up a bunch of changes fr
 <!--more-->
 
 
-  
+
 I didn&#8217;t have too many things in my XML, so I started pulling pieces of my migration out and re-testing, I finally narrowed the issue down to a particular picklist field.
 
 The actual problem ended up being that the field was a required text field originally in production, but after a sandbox refresh it apparently was changed to be a picklist in the sandbox (which does not have the option of being required). Therefore, when I was trying to push the changes up it was making some effort to change the field type but could not recognize the required tag in the object XML when trying to save the definition. In this case, it was easiest for me to simply update the field to a picklist in production, and then run the Migration Tool again to update the picklist values and security from the sandbox.

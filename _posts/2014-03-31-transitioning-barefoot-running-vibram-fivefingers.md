@@ -3,7 +3,6 @@ id: 848
 title: Transitioning to Barefoot Running with Vibram Fivefingers
 date: 2014-03-31T17:00:55+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=848
 permalink: /2014/03/31/transitioning-barefoot-running-vibram-fivefingers/
 categories:

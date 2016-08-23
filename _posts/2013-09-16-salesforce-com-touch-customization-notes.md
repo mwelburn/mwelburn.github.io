@@ -3,7 +3,6 @@ id: 439
 title: 'Salesforce.com Touch Customization Possibilities&#8230;are Limited'
 date: 2013-09-16T09:00:39+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=439
 permalink: /2013/09/16/salesforce-com-touch-customization-notes/
 categories:
@@ -30,20 +29,20 @@ Additionally, offline storage is becoming a hot topic for mobile applications, a
 
 As I mentioned above, Touch is really good at what you expect out of a Salesforce organization &#8212; creating and editing records. If you want to expand beyond that&#8230;good luck. In terms of &#8220;customizing&#8221; the user experience, below are the only items of value I can see.
 
-  * Page Layouts reflect field changes that you make within Salesforce 
+  * Page Layouts reflect field changes that you make within Salesforce
       * The exception here is that there is a limit on the number of fields you can display in Touch (I think around 80). Otherwise it displays an error.
       * No custom Visualforce pages or S-Controls will get displayed in Touch even if they are on the Page Layout
-  * Custom Visualforce tabs (if <a title="Customize Touch Visualforce" href="http://appexchange.salesforce.com/help/doc/en/customize_touch_visualforce.htm" target="_blank">enabled</a>) 
+  * Custom Visualforce tabs (if <a title="Customize Touch Visualforce" href="http://appexchange.salesforce.com/help/doc/en/customize_touch_visualforce.htm" target="_blank">enabled</a>)
       * The Visualforce page gets surfaced in a new browser window. There is no real &#8220;integration&#8221; with Touch as a user experience besides the fact that you remain logged in to Salesforce.
       * The best use case I can think of for these is some sort of custom record creation screen or a page that surfaces data from a third party API in read only fashion. Using <a title="Canvas" href="http://wiki.developerforce.com/page/Force.com_Canvas" target="_blank">Canvas</a> here is probably what it is intended for.
 
 ### What you can NOT customize
 
-  * Offline Storage 
+  * Offline Storage
       * Unfortunately you can&#8217;t implement what Touch doesn&#8217;t.
-  * Custom buttons 
+  * Custom buttons
       * Custom buttons on records and related lists are not supported. This is usually where my Visualforce pages get surfaced, so by not supporting these most of my use cases are not viable.
-  * Custom web tabs 
+  * Custom web tabs
       * Similar to Visualforce tabs, but this normally is where you would simply surface a website. This isn&#8217;t as big of a deal because you can just iframe your website in a Visualforce tab if you need to.
 
 Below is an example of what a custom Visualforce Tab looks like in Salesforce Touch.

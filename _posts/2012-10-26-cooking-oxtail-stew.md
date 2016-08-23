@@ -3,13 +3,8 @@ id: 13
 title: 'Cooking: Oxtail Stew'
 date: 2012-10-26T23:03:00+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/2012/10/26/cooking-oxtail-stew/
 permalink: /2012/10/26/cooking-oxtail-stew/
-tumblr_br0nc080_permalink:
-  - http://br0nc080.tumblr.com/post/34376675624/cooking-oxtail-stew
-tumblr_br0nc080_id:
-  - 34376675624
 categories:
   - Cooking
   - Food

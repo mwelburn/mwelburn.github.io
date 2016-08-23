@@ -3,7 +3,6 @@ id: 925
 title: 'My #salesforce1selfie Featured in a Salesforce eBook'
 date: 2014-07-02T20:23:55+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=925
 permalink: /2014/07/02/salesforce1selfie-featured-salesforce-ebook/
 categories:
@@ -17,7 +16,7 @@ This evening I found out that the <a title="#salesforce1selfie" href="https://tw
   <p>
     <a href="https://twitter.com/MichaelWelburn">@michaelwelburn</a> We hope you&#8217;ve had a chance to check out our e-book, we featured your <a href="https://twitter.com/hashtag/salesforce1selfie?src=hash">#salesforce1selfie</a>! <a href="http://t.co/8s5kaHXQXQ">http://t.co/8s5kaHXQXQ</a>
   </p>
-  
+
   <p>
     — Salesforce (@salesforce) <a href="https://twitter.com/salesforce/statuses/484459160654733314">July 2, 2014</a>
   </p>

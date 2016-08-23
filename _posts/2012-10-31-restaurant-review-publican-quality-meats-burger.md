@@ -3,13 +3,8 @@ id: 12
 title: 'Restaurant Review: Publican Quality Meats (Burger Night)'
 date: 2012-10-31T23:44:18+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/2012/10/31/restaurant-review-publican-quality-meats-burger/
 permalink: /2012/10/31/restaurant-review-publican-quality-meats-burger/
-tumblr_br0nc080_permalink:
-  - http://br0nc080.tumblr.com/post/34729197093/restaurant-review-publican-quality-meats-burger
-tumblr_br0nc080_id:
-  - 34729197093
 categories:
   - Food
   - Restaurant

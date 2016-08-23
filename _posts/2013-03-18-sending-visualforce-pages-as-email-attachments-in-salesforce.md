@@ -3,7 +3,6 @@ id: 229
 title: Sending Visualforce Pages as Email Attachments in Salesforce
 date: 2013-03-18T07:00:59+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=229
 permalink: /2013/03/18/sending-visualforce-pages-as-email-attachments-in-salesforce/
 categories:
@@ -29,19 +28,19 @@ Fortunately, there is a pretty easy way to do both. By wrapping the custom Visua
 In order to save a Quote as a PDF, provided you have the Quote ID, you simply have to leverage the following code (which in this case is wired up to the &#8220;Save to Quote&#8221; button.
 
     // Assuming quote is a Quote variable set in the controller
-    
+
     public PageReference saveQuoteAsPDF()
     {
        PageReference pr = Page.VisualforceQuotePDF;
        pr.getParameters().put('id', quote.id);
        Blob content = pr.getContentAsPDF();
        QuoteDocument doc = new QuoteDocument(Document = content, QuoteId = quote.id);
-    
+
        Database.SaveResult insertResult = Database.Insert(doc, false);
        // check for errors here and act according!
        System.debug('Result: ' + insertResult);
        System.debug('Quote PDF created: ' + doc.Id);
-    
+
        //upon completion redirect to quote
        PageReference quotePage = new PageReference('/' + quote.id);
        quotePage.setRedirect(true);
@@ -56,19 +55,19 @@ Completing this task is pretty simple as well, once you get used to interpreting
 
     // Assuming quote is a Quote variable set in the controller
     // Assuming quoteContact is the contact on the Quote object
-    
+
     public PageReference saveQuoteAsPDFandEmail()
     {       
        PageReference pr = Page.VisualforceQuotePDF;
        pr.getParameters().put('id', quote.id);
        Blob content = pr.getContentAsPDF();
        QuoteDocument doc = new QuoteDocument(Document = content, QuoteId = quote.id);
-    
+
        Database.SaveResult insertResult = Database.Insert(doc, false);
        // check for errors here and act according!
        System.debug('Result: ' + insertResult);
        System.debug('Quote PDF created: ' + doc.Id);  
-    
+
        //upon completion redirect to quote
        String emailURL = '/_ui/core/email/author/EmailAuthor?p3_lkid=' + quote.Id + '&doc_id=' + doc.Id + '&retURL=%2F' + quote.Id;
        if (quoteContact != null)

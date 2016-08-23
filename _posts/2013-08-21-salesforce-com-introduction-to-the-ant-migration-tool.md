@@ -3,7 +3,6 @@ id: 425
 title: 'Salesforce.com: Introduction to the Ant Migration Tool'
 date: 2013-08-21T09:00:49+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=425
 permalink: /2013/08/21/salesforce-com-introduction-to-the-ant-migration-tool/
 categories:
@@ -38,15 +37,15 @@ I did come across a few things that jumped out at me as things to keep note of.
 > <div>
 >   <types>
 > </div>
-> 
+>
 > <div style="padding-left: 30px;">
 >   <members>MW__CustomObject__c.MyField__c</members>
 > </div>
-> 
+>
 > <div style="padding-left: 30px;">
 >   <name>CustomField</name>
 > </div>
-> 
+>
 > <div>
 >   </types>
 > </div>
@@ -59,7 +58,7 @@ I did come across a few things that jumped out at me as things to keep note of.
   * I got the following error when migrating Quotes to a new organization. I had forgotten that you have to <a title="Enable Quotes" href="https://help.salesforce.com/HTViewHelpDoc?id=quotes_enable.htm&language=en_US" target="_blank">enable Quotes</a> in an organization, so keep in mind that you may have to manually enable some features.
 
 > Error: objects/Quote.object(Quote):Invalid fullName, must end in __c
-  
+
 > Error: objects/QuoteLineItem.object(QuoteLineItem):Invalid fullName, must end in __c
 
   * I did notice more issues coming up when I tried to export and import entire standard objects rather than pieces (e.g. identifying a handful of fields I customized). I got a variety of errors, the most confusing below (which I haven&#8217;t figured out yet):

@@ -3,7 +3,6 @@ id: 950
 title: Building a Portable Bracing Table for Relief Carving
 date: 2014-08-04T07:00:42+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=950
 permalink: /2014/08/04/building-portable-bracing-table-relief-carving/
 twitterCardType:

@@ -3,7 +3,6 @@ id: 871
 title: Building a Wellness Tracking App on Salesforce1 in a Couple Hours
 date: 2014-05-06T07:00:15+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=871
 permalink: /2014/05/06/building-wellness-tracking-app-salesforce1-in-a-couple-hours/
 categories:
@@ -25,7 +24,7 @@ A couple weeks back an internal team at <a title="7Summits" href="http://7summit
   <p>
     Tracking wellness with <a href="https://twitter.com/salesforce1">@salesforce1</a>. Built in hours, not weeks! <a href="https://twitter.com/search?q=%23salesforce1selfie&src=hash">#salesforce1selfie</a> <a href="https://twitter.com/search?q=%23sf1devweek&src=hash">#sf1devweek</a> <a href="https://twitter.com/Benioff">@Benioff</a> <a href="https://twitter.com/adamse">@adamse</a> <a href="http://t.co/5vBeBNtnQE">pic.twitter.com/5vBeBNtnQE</a>
   </p>
-  
+
   <p>
     — Michael Welburn (@MichaelWelburn) <a href="https://twitter.com/MichaelWelburn/statuses/462381751588114432">May 3, 2014</a>
   </p>

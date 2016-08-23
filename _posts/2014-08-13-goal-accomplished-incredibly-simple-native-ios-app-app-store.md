@@ -3,7 +3,6 @@ id: 962
 title: 'Goal Accomplished: A Simple Native iOS App on the App Store called PaceMyRace'
 date: 2014-08-13T07:10:39+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=962
 permalink: /2014/08/13/goal-accomplished-incredibly-simple-native-ios-app-app-store/
 twitterCardType:
@@ -39,7 +38,7 @@ Unfortunately, that was one of the more accurate distances that I&#8217;ve track
 
 <div id="attachment_968" style="width: 610px" class="wp-caption aligncenter">
   <a href="http://michaelwelburn.com/wp-content/uploads/2014/08/Screen-Shot-2014-08-03-at-1.34.02-AM.png"><img class="wp-image-968 size-large" src="http://michaelwelburn.com/wp-content/uploads/2014/08/Screen-Shot-2014-08-03-at-1.34.02-AM-1024x708.png" alt="Interesting RunKeeper route" width="600" height="414" srcset="http://michaelwelburn.com/wp-content/uploads/2014/08/Screen-Shot-2014-08-03-at-1.34.02-AM-1024x708.png 1024w, http://michaelwelburn.com/wp-content/uploads/2014/08/Screen-Shot-2014-08-03-at-1.34.02-AM-300x207.png 300w, http://michaelwelburn.com/wp-content/uploads/2014/08/Screen-Shot-2014-08-03-at-1.34.02-AM-668x462.png 668w, http://michaelwelburn.com/wp-content/uploads/2014/08/Screen-Shot-2014-08-03-at-1.34.02-AM.png 1056w" sizes="(max-width: 600px) 100vw, 600px" /></a>
-  
+
   <p class="wp-caption-text">
     Just running through the highway into McCormick Place. Nothing to see here.
   </p>
@@ -66,7 +65,7 @@ Making an icon for the App Store was another interesting endeavor. Since I have 
 
 <div id="attachment_977" style="width: 410px" class="wp-caption aligncenter">
   <a href="http://michaelwelburn.com/wp-content/uploads/2014/08/iTunesArtwork.png"><img class="size-full wp-image-977" src="http://michaelwelburn.com/wp-content/uploads/2014/08/iTunesArtwork.png" alt="PaceMyRace - Icon 1.0" width="400" height="400" srcset="http://michaelwelburn.com/wp-content/uploads/2014/08/iTunesArtwork.png 512w, http://michaelwelburn.com/wp-content/uploads/2014/08/iTunesArtwork-150x150.png 150w, http://michaelwelburn.com/wp-content/uploads/2014/08/iTunesArtwork-300x300.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></a>
-  
+
   <p class="wp-caption-text">
     This was the original sketch. It looks like a child drew it.
   </p>
@@ -74,7 +73,7 @@ Making an icon for the App Store was another interesting endeavor. Since I have 
 
 <div id="attachment_978" style="width: 410px" class="wp-caption aligncenter">
   <a href="http://michaelwelburn.com/wp-content/uploads/2014/08/iTunesArtwork1.png"><img class="size-full wp-image-978" src="http://michaelwelburn.com/wp-content/uploads/2014/08/iTunesArtwork1.png" alt="PaceMyRace - Icon 2.0" width="400" height="400" srcset="http://michaelwelburn.com/wp-content/uploads/2014/08/iTunesArtwork1.png 512w, http://michaelwelburn.com/wp-content/uploads/2014/08/iTunesArtwork1-150x150.png 150w, http://michaelwelburn.com/wp-content/uploads/2014/08/iTunesArtwork1-300x300.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></a>
-  
+
   <p class="wp-caption-text">
     The final version. I think this is my design magnum opus.
   </p>

@@ -3,7 +3,6 @@ id: 356
 title: Working with SharePoint 2010 Web Services
 date: 2013-04-04T07:00:20+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=356
 permalink: /2013/04/04/working-with-sharepoint-2010-web-services/
 categories:

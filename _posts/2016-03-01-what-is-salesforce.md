@@ -3,7 +3,6 @@ id: 1093
 title: What is Salesforce?
 date: 2016-03-01T19:29:06+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=1093
 permalink: /2016/03/01/what-is-salesforce/
 twitterCardType:
@@ -12,6 +11,7 @@ categories:
   - Salesforce
 tags:
   - Trailhead
+excerpt: "Diving into Salesforce's latest Trailhead module."
 ---
 I get this question all the time when people ask me what I do for a living. Anyone in sales (and maybe the tech sector) has usually heard of Salesforce, but most people outside of those industries probably haven&#8217;t. I often have to explain:
 

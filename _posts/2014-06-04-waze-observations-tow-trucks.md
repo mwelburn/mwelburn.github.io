@@ -3,7 +3,6 @@ id: 869
 title: 'Waze Observations &#038; Tow Trucks'
 date: 2014-06-04T08:00:04+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=869
 permalink: /2014/06/04/waze-observations-tow-trucks/
 categories:

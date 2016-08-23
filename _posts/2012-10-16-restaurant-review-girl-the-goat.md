@@ -3,13 +3,8 @@ id: 15
 title: 'Restaurant Review: Girl &amp; the Goat'
 date: 2012-10-16T12:10:00+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/2012/10/16/restaurant-review-girl-the-goat/
 permalink: /2012/10/16/restaurant-review-girl-the-goat/
-tumblr_br0nc080_permalink:
-  - http://br0nc080.tumblr.com/post/33704433374/restaurant-review-girl-the-goat
-tumblr_br0nc080_id:
-  - 33704433374
 categories:
   - Food
   - Restaurant

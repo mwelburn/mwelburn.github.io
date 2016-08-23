@@ -3,13 +3,8 @@ id: 16
 title: 'Chicago Marathon 2012: Completed'
 date: 2012-10-13T14:20:00+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/2012/10/13/chicago-marathon-2012-completed/
 permalink: /2012/10/13/chicago-marathon-2012-completed/
-tumblr_br0nc080_permalink:
-  - http://br0nc080.tumblr.com/post/33494775530/chicago-marathon-2012-completed
-tumblr_br0nc080_id:
-  - 33494775530
 categories:
   - Hobby
   - Running

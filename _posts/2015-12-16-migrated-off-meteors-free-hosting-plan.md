@@ -3,7 +3,6 @@ id: 1071
 title: 'How I Migrated Off Meteor&#8217;s Free Hosting Plan'
 date: 2015-12-16T07:22:42+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=1071
 permalink: /2015/12/16/migrated-off-meteors-free-hosting-plan/
 twitterCardType:

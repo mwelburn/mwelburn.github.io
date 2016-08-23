@@ -3,7 +3,6 @@ id: 44
 title: Migrating from Tumblr to WordPress
 date: 2013-02-18T08:00:59+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=44
 permalink: /2013/02/18/migrating-from-tumblr-to-wordpress/
 categories:

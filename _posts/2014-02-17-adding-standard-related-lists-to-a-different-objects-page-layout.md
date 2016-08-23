@@ -3,7 +3,6 @@ id: 581
 title: 'Adding Standard Related Lists to a Different Object&#8217;s Page Layout'
 date: 2014-02-17T06:00:32+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=581
 permalink: /2014/02/17/adding-standard-related-lists-to-a-different-objects-page-layout/
 categories:
@@ -40,9 +39,9 @@ This solution has the same two implementation considerations as above, however i
 
 There are two benefits to this method:
 
-  * Visualforce Pages dragged to a Page Layout **must** have a fixed height defined. For a related list, this isn&#8217;t as big of a deal as long as you are willing to display a set number of records and have a link to view more. You might get some vertical whitespace when you don&#8217;t have any records. 
+  * Visualforce Pages dragged to a Page Layout **must** have a fixed height defined. For a related list, this isn&#8217;t as big of a deal as long as you are willing to display a set number of records and have a link to view more. You might get some vertical whitespace when you don&#8217;t have any records.
       * This solution can be as tall as you want.
-  * The related list is going to have to go somewhere in the Page Layout&#8217;s field sections. The lowest you can make it is right after the bottom section of action buttons, right above the first related list. 
+  * The related list is going to have to go somewhere in the Page Layout&#8217;s field sections. The lowest you can make it is right after the bottom section of action buttons, right above the first related list.
       * This solution will go at the bottom of the Page.
 
 For additional help, below is some sample source code for this solution:

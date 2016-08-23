@@ -3,7 +3,6 @@ id: 728
 title: 'New Year&#8217;s Resolutions for 2014'
 date: 2014-01-01T06:00:28+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=728
 permalink: /2014/01/01/new-years-resolutions-for-2014/
 categories:

@@ -3,7 +3,6 @@ id: 476
 title: 'Salesforce.com Metadata API Error: Duplicates Value on Record with ID'
 date: 2013-10-01T09:00:13+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=476
 permalink: /2013/10/01/salesforce-com-metadata-api-error-duplicates-value-on-record-with-id/
 categories:

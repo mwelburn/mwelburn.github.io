@@ -3,7 +3,6 @@ id: 859
 title: Setting up Rails Environment Variables with Foreman
 date: 2014-04-08T21:55:23+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=859
 permalink: /2014/04/08/revisiting-rails-development-environment-variables-foreman/
 categories:

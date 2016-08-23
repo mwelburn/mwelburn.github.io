@@ -3,7 +3,6 @@ id: 304
 title: Redirecting Blog Posts on a Subdomain to a Blog on the Main Domain using .htaccess
 date: 2013-03-06T19:31:41+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=304
 permalink: /2013/03/06/redirecting-blog-posts-on-a-subdomain-to-a-blog-on-the-main-domain-using-htaccess/
 categories:
@@ -35,7 +34,7 @@ While this was a manual process, I only had 10 to 15 posts to map. Unfortunately
 With renewed energy (a month later), I started playing around with my DNS records again, gave up, and then found this <a title="Redirecting a subdomain to the main domain" href="http://www.kingscooty.com/blog/redirect-a-subdomain-to-a-main-domain-using-htaccess/" target="_blank">post</a> that turned out to solve my problem. It turned out that I also needed to modify the .htaccess file to add the following 301 redirect from the subdomain.
 
 > RewriteCond %{HTTP_HOST} ^blog.michaelwelburn.com$ [OR]
-  
+
 > RewriteCond %{HTTP_HOST} ^www.blog.michaelwelburn.com$
-  
+
 > RewriteRule (.*)$ http://www.michaelwelburn.com/$1 [R=301,L]

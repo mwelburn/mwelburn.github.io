@@ -3,7 +3,6 @@ id: 230
 title: 'Introducing Weather Wardrobe: The quickest way to get dressed in the morning'
 date: 2013-02-27T07:00:18+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=230
 permalink: /2013/02/27/introducing-weather-wardrobe-the-quickest-way-to-get-dressed-in-the-morning/
 categories:

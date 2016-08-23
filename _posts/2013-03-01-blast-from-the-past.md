@@ -3,7 +3,6 @@ id: 73
 title: Blast from the Past
 date: 2013-03-01T07:00:25+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=73
 permalink: /2013/03/01/blast-from-the-past/
 categories:

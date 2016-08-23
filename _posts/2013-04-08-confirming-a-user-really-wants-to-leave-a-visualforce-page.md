@@ -3,7 +3,6 @@ id: 65
 title: Confirming a User Really Wants to Leave a Page with JavaScript
 date: 2013-04-08T07:00:40+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=65
 permalink: /2013/04/08/confirming-a-user-really-wants-to-leave-a-visualforce-page/
 categories:
@@ -27,7 +26,7 @@ The easiest way to handle this is to bind an event handler to beforeunload. This
 
     var j$ = jQuery.noConflict();
     var tempDisableBeforeUnload = false;
-    
+
     j$(window).on('beforeunload', function()
     {
        if (!tempDisableBeforeUnload)

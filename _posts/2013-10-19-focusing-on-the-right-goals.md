@@ -3,7 +3,6 @@ id: 542
 title: Focusing on the Right Goals
 date: 2013-10-19T08:30:33+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=542
 permalink: /2013/10/19/focusing-on-the-right-goals/
 categories:

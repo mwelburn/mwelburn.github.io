@@ -3,7 +3,6 @@ id: 687
 title: 'Salesforce.com Advanced Developer (501) Programming Assignment &#038; Essay'
 date: 2014-01-30T06:00:29+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=687
 permalink: /2014/01/30/salesforce-com-advanced-developer-501-programming-assignment-essay/
 categories:

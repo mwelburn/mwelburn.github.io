@@ -3,7 +3,6 @@ id: 628
 title: Salesforce.com Dynamic Apex Field Manipulation
 date: 2014-01-20T06:00:06+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=628
 permalink: /2014/01/20/salesforce-com-dynamic-apex-field-manipulation/
 categories:
@@ -23,12 +22,12 @@ The problem that I had was that I needed to access one of the ISV’s Apex contr
     public class TestController
     {
       // …implementation here…
-    
+
       public List<TestObject> getTestObjects()
       {
         // …get collection...
       }
-    
+
       class TestObject
       {
         public String myField;
@@ -55,7 +54,7 @@ By returning a collection of generic objects, I no longer could use dot notation
     for (Object obj : mc.getTestObjects())
     {
       // Does not compile - obj.myField
-    
+
       // Works
       System.debug(‘myField value: ‘ + obj.get('myField'));
     }

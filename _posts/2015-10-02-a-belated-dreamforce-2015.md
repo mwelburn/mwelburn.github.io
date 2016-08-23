@@ -3,7 +3,6 @@ id: 1056
 title: A Belated Dreamforce 2015
 date: 2015-10-02T21:35:17+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=1056
 permalink: /2015/10/02/a-belated-dreamforce-2015/
 twitterCardType:
@@ -78,7 +77,7 @@ Not to be overlooked was the Dreamforce swag. This year I lucked into winning a 
   <p dir="ltr" lang="en" style="text-align: center;">
     Great haul today at <a href="https://twitter.com/Dreamforce">@Dreamforce</a> courtesy of <a href="https://twitter.com/Office365_Tech">@Office365_Tech</a> <a href="https://twitter.com/hashtag/MSFTatDF15?src=hash">#MSFTatDF15</a> <a href="https://twitter.com/hashtag/DF15?src=hash">#DF15</a> <a href="http://t.co/22MASu1t0J">pic.twitter.com/22MASu1t0J</a>
   </p>
-  
+
   <p style="text-align: center;">
     — Michael Welburn (@MichaelWelburn) <a href="https://twitter.com/MichaelWelburn/status/644285734203985920">September 16, 2015</a>
   </p>

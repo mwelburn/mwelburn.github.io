@@ -3,7 +3,6 @@ id: 626
 title: Removing Labels from Visualforce Charting Pie Wedges
 date: 2014-01-06T06:00:44+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=626
 permalink: /2014/01/06/removing-labels-from-visualforce-charting-pie-wedges/
 categories:

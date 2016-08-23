@@ -3,13 +3,8 @@ id: 10
 title: Dropbox Selective Sync
 date: 2013-02-09T22:08:00+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/2013/02/09/dropbox-selective-sync/
 permalink: /2013/02/09/dropbox-selective-sync/
-tumblr_br0nc080_permalink:
-  - http://br0nc080.tumblr.com/post/42697561029/dropbox-selective-sync
-tumblr_br0nc080_id:
-  - 42697561029
 categories:
   - Uncategorized
 tags:

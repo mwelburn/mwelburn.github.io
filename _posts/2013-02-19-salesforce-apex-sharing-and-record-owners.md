@@ -3,7 +3,6 @@ id: 217
 title: Salesforce.com APEX Sharing and Record Owners
 date: 2013-02-19T20:52:34+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=217
 permalink: /2013/02/19/salesforce-apex-sharing-and-record-owners/
 categories:
@@ -44,15 +43,15 @@ To rectify this, I did a query for all the Accounts related to the custom object
           accountIds.add(customObj.Account__c);
        }
     }
-    
+
     Map<Id, Account> accountMap = new Map<Id, Account>();
     List<Account> accounts = [SELECT Id, OwnerId FROM Account WHERE Id =: accountIds];
     for (Account acct : accounts) {
        accountMap.put(acct.Id, acct);
     }
-    
+
     ...
-    
+
     if (customObj.Account__c != null && accountMap.get(customObj.Account__c).OwnerId != customObj.User__c) {
        // Create APEX Share
     }

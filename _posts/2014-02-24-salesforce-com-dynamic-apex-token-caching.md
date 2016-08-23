@@ -3,7 +3,6 @@ id: 821
 title: Salesforce.com Dynamic Apex Token Caching
 date: 2014-02-24T07:00:20+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=821
 permalink: /2014/02/24/salesforce-com-dynamic-apex-token-caching/
 categories:

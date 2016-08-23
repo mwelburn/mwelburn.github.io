@@ -3,7 +3,6 @@ id: 1068
 title: 'Salesforce Trailhead: Not Just For Beginners'
 date: 2016-01-24T15:26:37+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=1068
 permalink: /2016/01/24/salesforce-trailhead-not-just-for-beginners/
 twitterCardType:
@@ -13,6 +12,7 @@ categories:
   - Salesforce
 tags:
   - Trailhead
+excerpt: "How a seasoned Salesforce veteran can derive value from Trailhead."
 ---
 <img class="aligncenter size-large wp-image-1087" src="http://michaelwelburn.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-24-at-3.58.49-PM-1024x568.png" alt="Trailhead" width="765" height="424" srcset="http://michaelwelburn.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-24-at-3.58.49-PM-1024x568.png 1024w, http://michaelwelburn.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-24-at-3.58.49-PM-300x166.png 300w, http://michaelwelburn.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-24-at-3.58.49-PM-768x426.png 768w" sizes="(max-width: 765px) 100vw, 765px" />
 

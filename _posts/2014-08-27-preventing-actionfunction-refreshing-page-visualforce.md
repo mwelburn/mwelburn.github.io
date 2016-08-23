@@ -3,7 +3,6 @@ id: 987
 title: Preventing a Visualforce ActionFunction from Refreshing the Page
 date: 2014-08-27T22:55:59+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=987
 permalink: /2014/08/27/preventing-actionfunction-refreshing-page-visualforce/
 twitterCardType:
@@ -31,35 +30,35 @@ What I ended up doing to resolve this was setting a **reRender** attribute on t
 The Visualforce page ended up looking like this very simple snippet of code:
 
     <apex:page controller="TodosController">
-    
+
       ...
-    
+
       <apex:form>
-    
+
         <apex:repeat value="{!todos}" var="todo">
           <apex:inputField value="{!todo.Completed__c}" onchange="saveUpdates()"/>
           <apex:outputField value="{!todo.Name}"/>
         </apex:repeat>
-    
+
         <!-- need to point to nonexistent ID so page doesn't refresh -->
         <apex:actionFunction name="saveUpdates" action="{!saveUpdates}" rerender="fakeresults"/>
-    
+
       </apex:form>
-    
+
     </apex:page>
 
 Leveraging the StandardSetController makes implementing that custom **saveUpdates** method in the custom Apex controller quite easy:
 
     public class TodosController {
-    
+
       public ApexPages.StandardSetController stdSetController;
-    
+
       ...
-    
+
       public List<Todo__c> getTodos() {
         return this.stdSetController.getRecords();
       }
-    
+
       public void saveUpdates() {
         this.stdSetController.save();
       }

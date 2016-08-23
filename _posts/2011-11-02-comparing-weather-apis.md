@@ -3,13 +3,8 @@ id: 19
 title: Comparing Weather APIs
 date: 2011-11-02T00:49:00+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/2011/11/02/comparing-weather-apis/
 permalink: /2011/11/02/comparing-weather-apis/
-tumblr_br0nc080_permalink:
-  - http://br0nc080.tumblr.com/post/12220032768/comparing-weather-apis
-tumblr_br0nc080_id:
-  - 12220032768
 categories:
   - API
   - Programming

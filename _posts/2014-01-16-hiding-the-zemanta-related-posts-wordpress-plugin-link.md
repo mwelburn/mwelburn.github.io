@@ -3,7 +3,6 @@ id: 746
 title: Hiding the Zemanta Related Posts WordPress Plugin Link
 date: 2014-01-16T09:00:06+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=746
 permalink: /2014/01/16/hiding-the-zemanta-related-posts-wordpress-plugin-link/
 categories:

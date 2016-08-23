@@ -3,7 +3,6 @@ id: 22
 title: New to iOS Programming
 date: 2013-02-21T08:00:34+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=22
 permalink: /2013/02/21/new-to-ios-programming/
 tumblr_br0nc080_permalink:

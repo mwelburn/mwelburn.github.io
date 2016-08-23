@@ -3,13 +3,8 @@ id: 14
 title: 'Restaurant Review: Elizabeth Restaurant'
 date: 2012-10-25T14:00:00+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/2012/10/25/restaurant-review-elizabeth-restaurant/
 permalink: /2012/10/25/restaurant-review-elizabeth-restaurant/
-tumblr_br0nc080_permalink:
-  - http://br0nc080.tumblr.com/post/34295716460/restaurant-review-elizabeth-restaurant
-tumblr_br0nc080_id:
-  - 34295716460
 categories:
   - Food
   - Restaurant

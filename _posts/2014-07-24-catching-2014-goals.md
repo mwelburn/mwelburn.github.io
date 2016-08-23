@@ -3,7 +3,6 @@ id: 937
 title: 'Progress Report: Catching Up On My 2014 Goals'
 date: 2014-07-24T05:00:43+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=937
 permalink: /2014/07/24/catching-2014-goals/
 twitterCardType:

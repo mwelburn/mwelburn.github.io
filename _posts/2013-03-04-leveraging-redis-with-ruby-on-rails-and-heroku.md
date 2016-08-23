@@ -3,7 +3,6 @@ id: 231
 title: Leveraging Redis with Ruby on Rails and Heroku
 date: 2013-03-04T07:00:12+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=231
 permalink: /2013/03/04/leveraging-redis-with-ruby-on-rails-and-heroku/
 categories:
@@ -49,9 +48,9 @@ Once Redis is populated with hashes of forecasts of zip codes, I need to make su
     else
        url = "https://api.aerisapi.com/forecasts/#{@zipcode}?from=today&#{client_params}"
     end
-    
+
     ...
-    
+
     if url
        $redis.set(@zipcode, forecast.to_json)
        #expire 12 hours after it is valid
@@ -68,15 +67,15 @@ I did have a couple of interesting things pop up as I was implemented Redis. The
 I also had an issue deploying my application to Heroku after implementing Redis.
 
 > Running: rake assets:precompile rake aborted! bad URI(is not URI?):
-  
+
 > &#8230;&#8230;&#8230;
-  
+
 > Tasks: TOP => environment (See full trace by running task with &#8211;trace)
-  
+
 > Precompiling assets failed, enabling runtime asset compilation
-  
+
 > Injecting rails31\_enable\_runtime\_asset\_compilation
-  
+
 > Please see this article for troubleshooting help: http://devcenter.heroku.com/articles/rails31\_heroku\_cedar#troubleshooting
 
 After researching a bit online, I found an <a title="Heroku Tip with Redis" href="http://blog.nathanhumbert.com/2012/01/rails-32-on-heroku-tip.html" target="_blank">article</a> that enlightened me as to what the issue was. Essentially, by putting my Redis instantiation in the initializers folder, it was trying to connect to Redis on startup during asset complication. Unfortunately with Heroku, the services have not started up yet at that point, so it was failing to connect. To alleviate that issue, I added the following line to the application.rb file.

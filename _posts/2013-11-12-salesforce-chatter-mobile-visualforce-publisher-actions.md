@@ -3,7 +3,6 @@ id: 635
 title: Why Salesforce Chatter Mobile Visualforce Publisher Actions are Unlocking Mobile for Everyone
 date: 2013-11-12T07:00:12+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=635
 permalink: /2013/11/12/salesforce-chatter-mobile-visualforce-publisher-actions/
 categories:

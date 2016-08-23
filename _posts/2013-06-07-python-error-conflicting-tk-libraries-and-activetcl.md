@@ -3,7 +3,6 @@ id: 409
 title: 'Python Error: Conflicting Tk Libraries and ActiveTcl'
 date: 2013-06-07T08:00:22+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=409
 permalink: /2013/06/07/python-error-conflicting-tk-libraries-and-activetcl/
 categories:

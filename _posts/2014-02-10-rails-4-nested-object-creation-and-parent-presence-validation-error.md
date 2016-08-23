@@ -3,7 +3,6 @@ id: 804
 title: Rails 4 Nested Object Creation and Parent Presence Validation Error
 date: 2014-02-10T06:00:21+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=804
 permalink: /2014/02/10/rails-4-nested-object-creation-and-parent-presence-validation-error/
 categories:
@@ -41,12 +40,12 @@ I then went about building a simple HTML page that allowed editing of both the T
     <%= form_for(@timesheet) do |f| %>
       <%= f.date_select :start_date %>
       <%= f.date_select :end_date %>
-    
+
       <%= f.fields_for :time_entries do |entry| %>
         <%= entry.date_select :completion_date %>
         <%= entry.text_field :notes %>
       <% end %>
-    
+
       <%= f.submit "Submit" %>
     <% end %>
 

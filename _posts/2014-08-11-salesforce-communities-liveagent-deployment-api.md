@@ -3,7 +3,6 @@ id: 971
 title: 'Salesforce Communities &#038; the Live Agent Deployment API'
 date: 2014-08-11T18:30:58+00:00
 author: Michael Welburn
-layout: post
 guid: http://michaelwelburn.com/?p=971
 permalink: /2014/08/11/salesforce-communities-liveagent-deployment-api/
 twitterCardType:
@@ -47,11 +46,11 @@ tags:
       Popping open the Community User&#8217;s related Contact record, in order to view their metadata, case history, etc.
     </li>
   </ol>
-  
+
   <p>
     After pasting the generated Live Agent code into your Visualforce page (which we&#8217;ll use as an example), you have the ability to leverage a couple of methods off the <strong>liveagent</strong> javascript object (which are documented in the Deployment API). The easiest one to use is the <a title="setName" href="https://developer.salesforce.com/docs/atlas.en-us.live_agent_dev.meta/live_agent_dev/live_agent_customizing_visitor_details_API_setName.htm" target="_blank"><strong>setName()</strong></a> method, which will accomplish the first item mentioned above. This is particularly important because otherwise your Agents will be presented with the IP Address of the user, along with the very generic label of <strong>Visitor</strong> in the chat window. With Visualforce & merge fields, this is simply an exercise of dumping the User&#8217;s name into the method as a parameter:
   </p>
-  
+
   <pre><code>liveagent.setName( '{!$User.FirstName} {!$User.LastName}' );</code></pre>
 </div>
 
@@ -67,9 +66,9 @@ tags:
 </div>
 
     liveagent.addCustomDetail('<strong>Contact ID</strong>', '{!$User.ContactId}', false);
-    
+
     liveagent.findOrCreate('Contact').map('Id', '<strong>Contact ID</strong>', true, true, false).saveToTranscript('contactId').showOnCreate();
-    
+
 
 <div>
   Looking back on the aforementioned documentation after discovering this (both on the Deployment API as well as the Pre-Chat API), it made a lot more sense. I was so focused on assuming the actual value would be the parameter that I misread what the parameter&#8217;s description actually said: <em>&#8220;The value of the custom detail to map to the corresponding field FieldName&#8221;</em>. Hopefully anyone else running into the same issue will find this enlightening, as the <a title="enableLogging" href="https://developer.salesforce.com/docs/atlas.en-us.live_agent_dev.meta/live_agent_dev/live_agent_logging_API_enableLogging.htm" target="_blank">debugging tools</a> for Live Agent&#8217;s Deployment API was not very helpful for me.
