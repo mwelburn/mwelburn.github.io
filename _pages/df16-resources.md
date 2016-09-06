@@ -4,10 +4,10 @@ title: "Dreamforce 16 Resources"
 ---
 These are some helpful links for getting started with Lightning Components on Community Builder.
 
-* [What is Community Cloud?](http://sforce.co/2bTK9QD)
-* [Community Builder Overview](http://sforce.co/2cof465)
+* [What is Community Cloud?](http://bit.ly/CC-FAQ)
+* [Community Builder Overview](http://bit.ly/CBOverview)
 * [Lightning Components Developer Guide](http://bit.ly/LC-DG)
-* [Configure Components for Communities](http://sforce.co/2c75EgL)
+* [Configure Components for Communities](http://bit.ly/ConfigComponent)
     * Basic code requirement to get your components to show up in Community Builder
-* [Network Object API Definition](http://sforce.co/2cvFHXj)
+* [Network Object API Definition](http://bit.ly/NetworkAPI)
     * Useful to look up Community Settings such as **OptionsNicknameDisplayEnabled** or **OptionsPrivateMessagesEnabled**
