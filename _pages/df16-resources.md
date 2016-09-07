@@ -11,3 +11,4 @@ These are some helpful links for getting started with Lightning Components on Co
     * Basic code requirement to get your components to show up in Community Builder
 * [Network Object API Definition](http://bit.ly/NetworkAPI)
     * Useful to look up Community Settings such as **OptionsNicknameDisplayEnabled** or **OptionsPrivateMessagesEnabled**
+* [Standard Design Tokens for Communities](http://bit.ly/DesignTokens)
