@@ -15,3 +15,8 @@ These are some helpful links for getting started with Lightning Components on Co
 * [Network Object API Definition](http://bit.ly/NetworkAPI)
     * Useful to look up Community Settings such as **OptionsNicknameDisplayEnabled** or **OptionsPrivateMessagesEnabled**
 * [Standard Design Tokens for Communities](http://bit.ly/DesignTokens)
+
+And here are some details specific to the session I presented called [Architecting Lightning Components for Community Builder](https://success.salesforce.com/Sessions#/session/a2q3A000000LBSYQA4):
+
+* [Powerpoint Slides](http://bit.ly/MW-DF16Slides)
+* [Source Code](http://bit.ly/MW-DF16Demo)
