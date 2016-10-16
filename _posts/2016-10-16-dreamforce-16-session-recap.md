@@ -18,6 +18,7 @@ My [session](/2016/08/23/catch-me-at-dreamforce) was presented on Tuesday aftern
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RfV0H4DqVkc" frameborder="0" allowfullscreen></iframe>
 
+
 Additionally, there are a number of links and resources (video, powerpoint, source code, etc.) located under [Dreamforce 16 Resources](/df16-resources). I also recorded a quick video on [how to create Community Users](http://bit.ly/CreateCommunityUsers), as that question has come up in the past.
 
 If you have questions about the presentation, feel free to get in touch on [Twitter](https://twitter.com/michaelwelburn).
