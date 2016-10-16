@@ -12,7 +12,7 @@ tags:
 excerpt: "Recapping my Dreamforce 16 session and providing resources."
 ---
 
-I had a great few days at [Dreamforce](https://dreamforce.com) 2016 connecting with a large number of internet friends. The footprint for developers continues to grow, taking over Moscone West this year, and I can't wait to get my hands on Salesforce DX next year.
+I had a great few days at [Dreamforce](https://dreamforce.com) 2016 connecting with a large number of internet friends, including the community around the always entertaining [Good Day, Sir!](http://www.gooddaysirpodcast.com/) podcast - a must listen for any Salesforce developers. The footprint for developers continues to grow, taking over Moscone West this year, and I can't wait to get my hands on Salesforce DX next year.
 
 My [session](/2016/08/23/catch-me-at-dreamforce) was presented on Tuesday afternoon to a pretty strong crowd in the Lightning Theater, and it helped that everyone had to walk by it to get lunch. Unfortunately, the Theater talks were not recorded, but I did record a screencast of the presentation afterward and [uploaded it to Youtube](http://bit.ly/MW-DF16Video) in case you missed it.
 
