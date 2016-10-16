@@ -2,6 +2,9 @@
 main:
   - title: "Blog"
     url: /blog
+    
+  - title: "Dreamforce 16"
+    url: /df16-resources
 
   - title: "About"
     url: /about
