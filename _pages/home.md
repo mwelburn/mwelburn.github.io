@@ -7,7 +7,8 @@ header:
   twitter_label: '<i class="fa fa-twitter"></i> @MichaelWelburn'
   twitter_url: https://twitter.com/MichaelWelburn
   caption:
-excerpt: 'Salesforce. Web Development. Other.'
+excerpt: 'Salesforce Architect + Web Developer'
+home_page: true
 feature_row:
   - image_path: architect.jpg
     alt: "Architect"
