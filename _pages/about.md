@@ -7,7 +7,7 @@ Thanks for stopping by to learn a little more about my background.
 
 Work Experience
 --
-I've spent the last 6+ years consulting on the Salesforce platform. Over that time, I've accumulated a wealth of [Salesforce certifications](http://certification.salesforce.com/verification?&fullname=Michael%20Welburn), demonstrating an expert level knowledge of Salesforce.
+I've spent the last 6+ years consulting on the Salesforce platform. Over that time, I've accumulated a wealth of [Salesforce certifications](http://certification.salesforce.com/verification?&fullname=Michael%20Welburn) and delivered 3 presentations at Dreamforce, demonstrating an expert level knowledge of Salesforce, 
 
 I've filled a vast majority of the roles on the delivery side of implementations, working at smaller companies without the separation of responsibilities you might find at a larger company.
 
