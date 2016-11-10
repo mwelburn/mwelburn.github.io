@@ -15,6 +15,7 @@ While the use of [Data.com Clean](https://help.salesforce.com/articleView?id=dat
 One scenario I recently went through was checking for duplicate Contact records that users may have created prior to an integration pushing the same Contact’s master data into Salesforce. The first thing I checked in this case was for unique email addresses.
 
     SELECT Email, COUNT(Id) FROM Contact GROUP BY Email HAVING COUNT(Id) > 1
+
 This [Aggregate](https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/sforce_api_calls_soql_select_agg_functions.htm) query groups together all of the resulting records by the **GROUP BY** field, in this case Email, and displays the number of Contact records that match that Email. The **HAVING** clause filters out any unique Emails in the system, ensuring that the result set only shows duplicates.
 
 While this query doesn’t give you the Contact Ids, it is a great way to quickly narrow down the faulty data for more specific queries. Similarly, you can check other fields by modifying the **GROUP BY** attribute (and updating that value in the select attributes).
