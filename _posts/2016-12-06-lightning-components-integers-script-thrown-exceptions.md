@@ -43,7 +43,7 @@ TestAccountListController.cls
 public class TestAccountListController {
 
   @AuraEnabled
-  public static List&lt;Account&gt; getAccounts(Integer resultSize) {
+  public static List<Account> getAccounts(Integer resultSize) {
     query = 'SELECT Id, Name FROM Account';
     if (resultSize != null && resultSize > 0) {
       query += ' LIMIT ' + resultSize;
@@ -57,7 +57,7 @@ A pretty straightward example of a Lightning Component calling a [server-side ac
 
 It turns out, running this in Lightning Experience throws a **Script-Thrown Exception**, and it is the kind that gives no context as to what the actual error is, even in the debug log. I quickly noticed this only occurred when going through the full end-to-end flow; unit tests worked perfectly. After a decent amount of debugging by dumping different test values to the debug log using System.debug, I realized that the error was being thrown during the **resultSize > 0** comparison, and more specifically the error that finally showed up implied that my resultSize Integer was acting as...a String?
 
-Searching on the internet, I came across a [StackExchange post](http://salesforce.stackexchange.com/questions/108355/limit-expression-must-be-of-type-integer-error-when-using-apex-variable-in-soq/108423#108423) with confirmation that this is a confirmed bug (unfortunately it looks like it was filed a year ago). Since I needed to complete the work, I had to cast my Integer to an Integer to get the code to execute correctly (and added a comment to absolve my future self of ridicule).
+Searching on the internet, I came across a [StackExchange post](http://salesforce.stackexchange.com/questions/108355/limit-expression-must-be-of-type-integer-error-when-using-apex-variable-in-soq/108423#108423) with confirmation that this is a confirmed bug (unfortunately it looks like it was filed a year ago). Since I needed to complete the work, I had to cast my Integer to an Integer using [Integer.valueOf()](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_methods_system_integer.htm) to get the code to execute correctly (and added a comment to absolve my future self of ridicule).
 
 TestAccountListController.cls
 
