@@ -21,7 +21,7 @@ feature_row:
   - image_path: consultant.jpg
     alt: "Consultant"
     title: "Consultant"
-    excerpt: "My focus is on solving business problems. Since 2010 I have been consulting on Salesforce implementations, and bring a valuable mix of business acumen and Salesforce technological knowledge to each engagement. An ability to solution & communicate business value with all levels of a business allows me to fill a variety of roles."
+    excerpt: "My focus is on solving business problems. Since 2010 I have been consulting on Salesforce implementations, and bring a valuable mix of business acumen and Salesforce technical knowledge to each engagement. The ability to solution & communicate business value with all levels of a business allows me to fill a variety of roles."
 github:
   - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
