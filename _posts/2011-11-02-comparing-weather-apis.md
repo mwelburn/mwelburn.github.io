@@ -153,13 +153,13 @@ My primary objective involved finding a service that provides the daily weather 
   <strong>Update (5/26/2019):</strong> HAMweather is now <a title="AerisWeather" href="https://www.aerisweather.com/" target="_blank">AerisWeather</a>.
 </p>
 
-## Forecast.io {.p1}
+## Forecast.io
 
 <p class="p1">
   <strong>Update (3/26/2013): </strong><a title="Forecast.io" href="https://developer.darkskyapp.com/" target="_blank">Forecast.io</a> &#8211; The company behind the <a title="Dark Sky App" href="http://darkskyapp.com/" target="_blank">Dark Sky</a> iOS app has <a title="Announcing Forecast.io" href="http://blog.forecast.io/post/46290267206/announcing-forecast" target="_blank">released</a> an API that aggregates data from a bunch of sources. Their pricing model is current 1,000 free API calls daily, with every subsequent 10,000 calls costing another dollar. Their endpoints are pretty basic at first glance, but the pricing model is very attractive compared to some of other options. As a side note, the forecast.io web and mobile <a title="Forecast.io" href="http://forecast.io" target="_blank">applications</a> are pretty impressive visually.
 </p>
 
-## OpenWeatherMap {.p1}
+## OpenWeatherMap
 
 <p class="p1">
   <strong>Update (4/2/2013): </strong><a title="OpenWeatherMap" href="http://openweathermap.org/" target="_blank">OpenWeatherMap</a> &#8211; This is a free service that provides forecast and weather data. The documentation is less easily navigated than some of the other (paid) sites, but it looks to return most of the relevant information that most users are probably interested in (temperature, humidity, wind, precipitation, etc. It looks like geolocation is the only parameter than you can use for location identifying at the moment.
