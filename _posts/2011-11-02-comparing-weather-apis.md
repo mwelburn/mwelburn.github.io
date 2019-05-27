@@ -149,6 +149,10 @@ My primary objective involved finding a service that provides the daily weather 
   <strong>Update (2/17/2013): </strong><a title="HAMweather" href="http://www.hamweather.com/support/documentation/" target="_blank">HAMweather</a> &#8211; HAMweather looks to be another very viable offering for developers. They have a developer account that allows 750 API calls a day (the first paid offering is 5,000 API calls at $25/month) and the response information for the endpoints looks pretty exhaustive in terms of information that I usually find necessary (temperature, humidity, feels like, precipitation). Another nice feature of HAMweather is that they have SDKs for Javascript, iOS, and Android to help jumpstart development.
 </p>
 
+<p class="p1">
+  <strong>Update:</strong> HAMweather is now <a title="AerisWeather" href="https://www.aerisweather.com/" target="_blank">AerisWeather</a></a>.
+</p>
+
 ## Forecast.io {.p1}
 
 <p class="p1">
