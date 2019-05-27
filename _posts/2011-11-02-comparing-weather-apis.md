@@ -150,7 +150,7 @@ My primary objective involved finding a service that provides the daily weather 
 </p>
 
 <p class="p1">
-  <strong>Update:</strong> HAMweather is now <a title="AerisWeather" href="https://www.aerisweather.com/" target="_blank">AerisWeather</a></a>.
+  <strong>Update (5/26/2019):</strong> HAMweather is now <a title="AerisWeather" href="https://www.aerisweather.com/" target="_blank">AerisWeather</a></a>.
 </p>
 
 ## Forecast.io {.p1}
