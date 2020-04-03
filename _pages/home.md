@@ -7,13 +7,13 @@ header:
   twitter_label: '<i class="fa fa-twitter"></i> @MichaelWelburn'
   twitter_url: https://twitter.com/MichaelWelburn
   caption:
-excerpt: 'Salesforce Architect + Web Developer'
+excerpt: 'Salesforce Architect + Engineering Manager'
 home_page: true
 feature_row:
   - image_path: architect.jpg
     alt: "Architect"
     title: "Architect"
-    excerpt: "Award-winning architect of the 2015 Salesforce Community Cloud Partner Innovation Award implementation. Years of experience designing and implementing scalable solutions on Salesforce, providing best practices to IT teams for ongoing support, and educating internal stakeholders on how to derive value from their investments."
+    excerpt: "Award-winning architect of the 2015 Salesforce Community Cloud Partner Innovation Award implementation. Years of experience designing and implementing scalable solutions on Salesforce, providing best practices to IT teams, managing delivery teams, and educating internal stakeholders on how to derive value from their investments."
   - image_path: developer.jpg
     alt: "Developer"
     title: "Developer"
