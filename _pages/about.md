@@ -7,7 +7,7 @@ Thanks for stopping by to learn a little more about my background.
 
 Work Experience
 --
-I'm currently employed at [Twitch](https://twitch.tv) as a Salesforce engineer. 
+I'm currently employed at [Twitch](https://twitch.tv) as a Salesforce Architect and Engineering Manager. 
 
 Prior to that, I spent 6+ years consulting on the Salesforce platform. Over that time, I've accumulated a wealth of [Salesforce certifications](http://certification.salesforce.com/verification?&fullname=Michael%20Welburn) and delivered 3 presentations at Dreamforce, both recognizing my vast knowledge of the ecosystem.
 
